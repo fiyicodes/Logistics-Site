@@ -4,4 +4,4 @@ flask-bootstrap
 flask-nav
 flask-debug
 flask-wtf
-requests==2.11.1
+requests==2.20.0
